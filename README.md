@@ -1,6 +1,6 @@
 # TrieSearch
 
-AIM- Trie Autocomplete for language learning purposes.
+#AIM#- Trie Autocomplete for language learning purposes.
 
 Project Methodology-
 
