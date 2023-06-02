@@ -12,6 +12,7 @@ We then used file handling to read it and insert the words one by one into the t
 2. We use 128 children to incorporate the special characters. This ensures fast insertion and fast retrieval of data from memory. 
 
 3. **Program Explanation** 
+
 The trie creation function defines the nodes of the tree. the insertion function serves to add the nodes to the tree. 
 Autocomplete function is where we take a prefix as a parameter and then return other words with the same prefix using the recursive helper function.
 The Helper function traverses until it reaches the end, then returns all the words stored with the particular prefix.
