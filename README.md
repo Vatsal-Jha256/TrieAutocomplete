@@ -1,4 +1,4 @@
-# TrieSearch
+# Trie Autocomplete
 
 #**AIM- Trie Autocomplete for language learning purposes.**
 
